@@ -37,7 +37,7 @@ O `user-service` envia os dados do e-mail para a fila, e o `email-service` conso
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone git@github.com:LucasLopes777/microserviceEnvioEmail.git
 cd microserviceEnvioEmail
 ```
 
